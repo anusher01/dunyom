@@ -1,0 +1,307 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+ul,
+ol {
+    list-style: none;
+}
+
+.container {
+    width: 1140px;
+
+    margin: 0 auto;
+}
+
+
+section {
+    width: 100%;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    margin: 0auto;
+    background-repeat: no-repeat;
+    background: url(../img/ciudad-maderas-MXbM1NrRqtI-unsplash\ 1.png)
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    left: 55.45%;
+    right: 40.44%;
+    top: 1.27%;
+    bottom: 97.7%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+
+.nav-item1 {
+    margin-right: 50px;
+margin-top: 25px;
+}
+
+.nav-item2 {
+    margin-right: 50px;
+margin-top: 25px;
+
+}
+
+.nav-item3 {
+    margin-right: 50px;
+margin-top: 25px;
+
+}
+
+.nav-item4 {
+    margin-right: 50px;
+margin-top: 25px;
+
+}
+
+.nav-img {
+    width: 200px;
+    margin-left: 100px;
+}
+
+.list-2 {
+    align-items: center;
+}
+
+.list-title {
+    left: 6.56%;
+    right: 74.74%;
+    top: 60px;
+    bottom: 84.72%;
+    margin-left: 60px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 61px;
+    /* identical to box height */
+    margin-top: 110px;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+.list-title-2 {
+    left: 6.56%;
+    right: 48.18%;
+    top: 15.28%;
+    bottom: 80.12%;
+
+    font-family: 'Fenix';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 172px;
+    letter-spacing: 0.07em;
+    margin-left: 60px;
+    color: #E0B973;
+    cursor: pointer;
+}
+
+.list-title-3 {
+    left: 7.24%;
+    right: 75.42%;
+    top: 20.67%;
+    bottom: 77.03%;
+    margin-left: 60px;
+    font-family: 'Fenix';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 67px;
+    /* identical to box height */
+
+    letter-spacing: 0.4em;
+    margin-bottom: 50px;
+    cursor: pointer;
+    color: #E0B973;
+
+}
+
+.list-text {
+    left: 7.24%;
+    right: 62.55%;
+    top: 23.72%;
+    cursor: pointer;
+    bottom: 74.22%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    letter-spacing: 0.1em;
+    margin-left: 60px;
+    color: #FFFFFF;
+
+}
+
+.button-img {
+    margin-top: 230px;
+    margin-left: 34%;
+    cursor: pointer;
+    margin-bottom: 160px;
+}
+
+.room-title {
+    left: 25.21%;
+    right: 25.26%;
+    top: 40.61%;
+    bottom: 57.88%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+
+    margin-top: 30px;
+
+    color: #14274A;
+    margin-bottom: 15%;
+}
+
+.room-img-1 {
+    width: 700px;
+    height: 450px;
+    margin-left: 40%;
+    margin-top: -300px;
+}
+
+.room-luxury {
+  
+    font-family: 'Fenix';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 55px;
+    line-height: 67px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    color: #14274A;
+}
+
+.room-item{
+    margin-top: 50px;
+}
+
+.room-text{
+ 
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 40px;
+/* or 160% */
+
+
+color: #14274A;
+
+border: 0.3p
+}
+
+
+.room-button{
+    width: 250px;
+    height: 50px;
+    border:5px solid blue;
+    background-color: rgb(0, 111, 139);
+  cursor: pointer;
+  margin-top: 30px;
+}
+.footer{
+    margin-bottom: 500px;
+    display: flex;
+    justify-content: space-around;
+    background: #14274A;
+}
+
+.footer-title{
+    cursor: pointer;
+    left: 9.64%;
+right: 82.45%;
+top: 93.68%;
+bottom: 4.77%;
+margin-left: 15%;
+font-family: 'Fenix';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+letter-spacing: 0.15em;
+
+color: #E0B973;
+}
+
+.footer-title-1{
+    left: 9.64%;
+    cursor: pointer;
+right: 82.45%;
+top: 93.68%;
+bottom: 4.77%;
+margin-left: 22%;
+font-family: 'Fenix';
+font-style: normal;
+font-weight: 300;
+font-size: 19px;
+line-height: 27px;
+letter-spacing: 0.15em;
+
+color: #E0B973;
+}
+
+.footer-text{
+    cursor: pointer;
+    left: 9.64%;
+    right: 80.89%;
+    top: 95.98%;
+    bottom: 2.27%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 17px;
+    margin-left: 15%;
+    color: #FFFFFF;
+    
+}
+
+.footer-title-2{
+    left: 35.83%;
+right: 56.09%;
+cursor: pointer;
+top: 93.92%;
+bottom: 2.64%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+margin-right: 20%;
+color: #F7F7F7;
+}
